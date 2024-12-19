@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FATHI MERIEM\\source\\repos\\course7\\17\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A495528-10F9-4F5B-93EE-1877C6DD289C}|17\\17.vcxproj|C:\\Users\\FATHI MERIEM\\source\\repos\\course7\\17\\17\\17.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0A495528-10F9-4F5B-93EE-1877C6DD289C}|17\\17.vcxproj|solutionrelative:17\\17.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "17.cpp",
+              "DocumentMoniker": "C:\\Users\\FATHI MERIEM\\source\\repos\\course7\\17\\17\\17.cpp",
+              "RelativeDocumentMoniker": "17\\17.cpp",
+              "ToolTip": "C:\\Users\\FATHI MERIEM\\source\\repos\\course7\\17\\17\\17.cpp",
+              "RelativeToolTip": "17\\17.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-18T14:17:36.77Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
