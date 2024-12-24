@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FATHI MERIEM\\source\\repos\\course7\\24\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95C09595-8F10-4932-90BB-19F322B97BB0}|24\\24.vcxproj|C:\\Users\\FATHI MERIEM\\source\\repos\\course7\\24\\24\\24.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{95C09595-8F10-4932-90BB-19F322B97BB0}|24\\24.vcxproj|solutionrelative:24\\24.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "24.cpp",
+              "DocumentMoniker": "C:\\Users\\FATHI MERIEM\\source\\repos\\course7\\24\\24\\24.cpp",
+              "RelativeDocumentMoniker": "24\\24.cpp",
+              "ToolTip": "C:\\Users\\FATHI MERIEM\\source\\repos\\course7\\24\\24\\24.cpp",
+              "RelativeToolTip": "24\\24.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-23T08:27:13.602Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
