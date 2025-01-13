@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FATHI MERIEM\\source\\repos\\course7\\49\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B0552AF-3B54-46A3-BB09-5F3CF28059C8}|..\\50\\50.vcxproj|C:\\Users\\FATHI MERIEM\\source\\repos\\course7\\50\\50.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D6907ED-7700-4E50-9CB8-CE3315171BAB}|49\\49.vcxproj|C:\\Users\\FATHI MERIEM\\source\\repos\\course7\\49\\49\\49.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2D6907ED-7700-4E50-9CB8-CE3315171BAB}|49\\49.vcxproj|solutionrelative:49\\49.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C3CC8AF-C923-4F18-84A3-A7283598D1F7}|..\\48\\48\\48.vcxproj|C:\\Users\\FATHI MERIEM\\source\\repos\\course7\\48\\48\\48.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "49.cpp",
+              "DocumentMoniker": "C:\\Users\\FATHI MERIEM\\source\\repos\\course7\\49\\49\\49.cpp",
+              "RelativeDocumentMoniker": "49\\49.cpp",
+              "ToolTip": "C:\\Users\\FATHI MERIEM\\source\\repos\\course7\\49\\49\\49.cpp",
+              "RelativeToolTip": "49\\49.cpp",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAuwG0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-31T22:14:16.862Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "50.cpp",
+              "DocumentMoniker": "C:\\Users\\FATHI MERIEM\\source\\repos\\course7\\50\\50.cpp",
+              "RelativeDocumentMoniker": "..\\50\\50.cpp",
+              "ToolTip": "C:\\Users\\FATHI MERIEM\\source\\repos\\course7\\50\\50.cpp",
+              "RelativeToolTip": "..\\50\\50.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAFYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-01T22:04:39.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "48.cpp",
+              "DocumentMoniker": "C:\\Users\\FATHI MERIEM\\source\\repos\\course7\\48\\48\\48.cpp",
+              "RelativeDocumentMoniker": "..\\48\\48\\48.cpp",
+              "ToolTip": "C:\\Users\\FATHI MERIEM\\source\\repos\\course7\\48\\48\\48.cpp",
+              "RelativeToolTip": "..\\48\\48\\48.cpp",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-01T22:50:03.119Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
